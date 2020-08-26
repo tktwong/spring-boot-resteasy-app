@@ -8,7 +8,7 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.iamtktwong</groupId>
+  <groupId>com.github.tktwong</groupId>
   <artifactId>spring-boot-resteasy-app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>resteasy-spring-boot-app</name>
