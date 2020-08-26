@@ -1,0 +1,1 @@
+# resteasy-spring-boot-starter example
